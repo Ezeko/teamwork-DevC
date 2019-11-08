@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "teamwork file",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezeko/teamwork-DevC.git"
+  },
+  "author": "Ezekiel ADEJOBI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezeko/teamwork-DevC/issues"
+  },
+  "homepage": "https://github.com/ezeko/teamwork-DevC#readme",
+  "dependencies": {
+    "eslint": "^6.6.0",
+    "express": "^4.17.1",
+    "jasmine": "^3.5.0",
+    "mocha": "^6.2.2"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb": "^18.0.1"
+  }
+}
